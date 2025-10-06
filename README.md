@@ -30,5 +30,5 @@ The game can also generate a **GIF replay** of the gameplay automatically!
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-snake-game.git
-cd ai-snake-game
+git clone https://github.com/shanskar35/snake_game.git
+cd snake_game
